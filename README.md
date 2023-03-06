@@ -5,7 +5,10 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-uso">Uso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  
+  %EF%B8%8F-uso
 </p>
 
 <p align="center">
@@ -20,14 +23,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
- 
-## 💻 Projeto 
-Esse é um projeto de currículo pessoal criado usando HTML, CSS e JavaScript. O objetivo é fornecer uma página web com informações sobre habilidades, experiências profissionais, projetos e outras informações relevantes para potenciais empregadores e recrutadores.
-
-
-## Uso
+ ## ℹ️ Uso
 Para visualizar o currículo, basta <a href="https://joaopedroom.github.io/#formacao">clicar aqui</a>. Você pode navegar pelas diferentes seções usando o menu de navegação ou rolando a página. O currículo é responsivo, o que significa que ele se ajusta automaticamente ao tamanho da tela do dispositivo.
 
+
+## 💻 Projeto 
+Esse é um projeto de currículo pessoal criado usando HTML, CSS e JavaScript, além do uso do pacote npm CleanCSS para otimizar o CSS do projeto. O objetivo é fornecer uma página web com informações sobre habilidades, experiências profissionais, projetos e outras informações relevantes para potenciais empregadores e recrutadores.
+
 ## 📝 Licença
-Esse projeto é licenciado sob a Licença MIT - veja o arquivo <a href="">LICENSE.md</a> para detalhes.
+Esse projeto é licenciado sob a Licença MIT - veja o arquivo <a href="https://github.com/JoaoPedroOM/JoaoPedroOM.github.io/blob/main/LICENSE">LICENSE.md</a> para detalhes.
 
