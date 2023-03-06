@@ -1,0 +1,80 @@
+.modal-wrapper-html.open{
+  opacity: 1;
+  visibility: visible;
+}
+.modal-wrapper-css.open{
+  opacity: 1;
+  visibility: visible;
+}
+.modal-wrapper-js.open{
+  opacity: 1;
+  visibility: visible;
+}
+
+.modal-wrapper-html{
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.7);
+  opacity: 0;
+  visibility: hidden;
+}
+.modal-wrapper-css{
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.7);
+  opacity: 0;
+  visibility: hidden;
+}
+.modal-wrapper-js{
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.7);
+  opacity: 0;
+  visibility: hidden;
+}
+
+.modal{
+  text-align: center;
+  position: relative;
+}
+.modal button{
+  background: none;
+  border: none;
+
+  position: absolute;
+  top: 1.6rem;
+  right: 1.6rem;
+
+  cursor: pointer;
+
+  transition: transform .3s;
+}
+
+.modal button:hover{
+  transform: scale(1.1);
+}
+
+.card{
+  background-color: white;
+  box-shadow: 0 0.2rem 0.4rem rga(0, 0, 0, 0.1) ;
+  border-radius: 0.6rem;
+  padding: 4rem 6.4rem;
+
+  max-width: 60rem;
+  height: 25rem;
+
+  margin-inline: auto;
+
+  font-size: 1.7rem;
+  line-height: 1.4;
+  color: var(--text-color);
+}
