@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
- ## Uso
+ ## ℹ️ Uso
 Para visualizar o currículo, basta <a href="https://joaopedroom.github.io/#formacao">clicar aqui</a>. Você pode navegar pelas diferentes seções usando o menu de navegação ou rolando a página. O currículo é responsivo, o que significa que ele se ajusta automaticamente ao tamanho da tela do dispositivo.
 
 
